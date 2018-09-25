@@ -1,13 +1,13 @@
 {
   "icons": [
     {
-      "src": "icon_192x192.e394763b83c0033831b5aa1b9c55b2fe.png",
-      "sizes": "192x192",
+      "src": "icon_512x512.a8ad8c5292681d54f000865060c71f71.png",
+      "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "icon_48x48.3f339633f2778ddd8cc3f8f84a00f27f.png",
-      "sizes": "48x48",
+      "src": "icon_192x192.baef64457b45f61d4452027eb43d8136.png",
+      "sizes": "192x192",
       "type": "image/png"
     }
   ],
