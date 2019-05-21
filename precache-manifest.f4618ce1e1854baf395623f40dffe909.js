@@ -12,8 +12,8 @@ self.__precacheManifest = [
     "url": "fonts/roboto-latin-900.8c2ade50.woff"
   },
   {
-    "revision": "7cf67eb139fa1b8eab79",
-    "url": "js/app.c3beb7ba.js"
+    "revision": "70809db247550036298b",
+    "url": "js/app.b7ab2faf.js"
   },
   {
     "revision": "658f47f1a7cf17303765",
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "fonts/roboto-latin-500italic.ffcc050b.woff"
   },
   {
-    "revision": "12a31a6fd89ca348d2262e48df7cd739",
+    "revision": "bade6b448081a0bad9e6e36630738476",
     "url": "index.html"
   },
   {
