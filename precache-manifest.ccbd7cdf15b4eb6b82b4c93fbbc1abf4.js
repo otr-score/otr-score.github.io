@@ -12,12 +12,12 @@ self.__precacheManifest = [
     "url": "fonts/roboto-latin-900.8c2ade50.woff"
   },
   {
-    "revision": "5a29c49f1cdea8dec874",
-    "url": "js/app.802a1a3f.js"
+    "revision": "33f14863cac11e402b7d",
+    "url": "js/app.5ad85446.js"
   },
   {
-    "revision": "d5e0cbbb36f3cfeb04b0",
-    "url": "js/chunk-vendors.0e701610.js"
+    "revision": "b7e7ddc884fa931f2312",
+    "url": "js/chunk-vendors.07c8879f.js"
   },
   {
     "revision": "b661c28b0f28606a96722ad2d9588b70",
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "fonts/roboto-latin-500italic.ffcc050b.woff"
   },
   {
-    "revision": "2e8fd93c17460a67c0b07ec782a4effe",
+    "revision": "df3221a92feaeb99171fbf76dcdd31b0",
     "url": "index.html"
   },
   {
